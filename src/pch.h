@@ -19,6 +19,9 @@
 
 #include "base/global.h"
 
+#include <cstddef>
+using std::ptrdiff_t;
+
 #include <NoesisPCH.h>
 
 #include <QWidget>
